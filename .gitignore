@@ -4,12 +4,14 @@
 *.pb
 saved_model/
 
+.gitattributes
 # Datasets
 *.npy
 *.npz
 data/
 dataset/
 real_life_violence_situations/
+kagglehub/
 
 # Imágenes y videos procesados
 processed_videos/
