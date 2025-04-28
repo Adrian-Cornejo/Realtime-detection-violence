@@ -53,8 +53,8 @@ seaborn>=0.11.0
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/deteccion-violencia.git
-cd deteccion-violencia
+git clone https://github.com/Adrian-Cornejo/Realtime-detection-violence.git
+cd Realtime-detection-violence
 
 # Instalar dependencias
 pip install -r requirements.txt
